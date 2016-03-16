@@ -1,7 +1,7 @@
 name: gasandelec
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.7781
+layout_spectrum: 0
+typography_spectrum: 0
 title: Gas and Electricity Testing on 0800 832 1198 in the UK www.gasandelec.com
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#ffa76d'
     - '#ddf8ff'
     - '#949693'
-  brandStrength: 0.6875
+  brandStrength: 1
   lightness: 0.6875
   saturation: 0.6875
   rhythmicContrast: 0.8471624348312616
