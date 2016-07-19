@@ -1,20 +1,4 @@
-name: gasandelec
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0
-title: Gas and Electricity Testing on 0800 832 1198 in the UK www.gasandelec.com
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-75121389-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#f2f2f2'
@@ -26,4 +10,21 @@ color:
   lightness: 0.6875
   saturation: 0.6875
   rhythmicContrast: 0.8471624348312616
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: UA-75121389-1
+  facebook: null
+  twitter: null
+name: gasandelec
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b354dc3f-f463-4067-98b1-af7468a8f7ba.jpg
+title: Gas and Electricity Testing on 0800 832 1198 in the UK www.gasandelec.com
 purpose: []
