@@ -10,7 +10,12 @@ publisher:
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 keywords: []
-description: GAS SAFE ENGINEERS ELECTRICIANS Safety Testing Checklist Electrical Installation Condition Report - Every 5 Years Portable Appliance Test - Every Year Fire or Smoke Alarm Test - Every Year Fire Risk Assessment - Every Year Emergency Lighting Test - Every Year Gas Safety Test - Every Year Energy Performance Certificate
+description: >-
+  GAS SAFE ENGINEERS ELECTRICIANS Safety Testing Checklist Electrical
+  Installation Condition Report - Every 5 Years Portable Appliance Test - Every
+  Year Fire or Smoke Alarm Test - Every Year Fire Risk Assessment - Every Year
+  Emergency Lighting Test - Every Year Gas Safety Test - Every Year Energy
+  Performance Certificate
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/158850922'
     type: ios
@@ -38,15 +43,14 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/158850922'
 title: Gas and Electricity Testing on 0207 175 0060 in London www.gasandelec.com
-datePublished: '2016-03-15T20:27:08.284Z'
-dateModified: '2016-03-15T20:26:27.307Z'
-sourcePath: _posts/2016-03-15-gas-and-electricity-testing-on-0207-175-0060-in-london-wwwg.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+datePublished: '2016-07-19T03:14:40.093Z'
+dateModified: '2016-07-19T03:14:38.852Z'
+sourcePath: >-
+  _posts/2016-03-15-gas-and-electricity-testing-on-0207-175-0060-in-london-wwwg.md
+hasPage: true
+starred: false
+url: gas-and-electricity-testing-on-0207-175-0060-in-london-wwwg/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
