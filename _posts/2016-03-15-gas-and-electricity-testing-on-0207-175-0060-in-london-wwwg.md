@@ -44,11 +44,12 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Gas and Electricity Testing on 0207 175 0060 in London www.gasandelec.com
-datePublished: '2016-07-19T03:14:40.093Z'
-dateModified: '2016-07-19T03:14:38.852Z'
+datePublished: '2016-08-31T07:17:12.376Z'
+dateModified: '2016-08-31T07:17:12.268Z'
 sourcePath: >-
   _posts/2016-03-15-gas-and-electricity-testing-on-0207-175-0060-in-london-wwwg.md
 hasPage: true
+via: {}
 starred: false
 url: gas-and-electricity-testing-on-0207-175-0060-in-london-wwwg/index.html
 _type: VideoObject
